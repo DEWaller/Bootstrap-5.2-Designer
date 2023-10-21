@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Gotham Rounded Book';
+	src: url(../fonts/GothamRounded-Book.woff2) format('woff2'),
+	url(../fonts/GothamRounded-Book.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Gotham Rounded Book';
+	src: url(../fonts/GothamRounded-BookItalic.woff2) format('woff2'),
+	url(../fonts/GothamRounded-BookItalic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
